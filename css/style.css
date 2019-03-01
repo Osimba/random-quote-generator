@@ -1,0 +1,44 @@
+* {
+  font-family: 'Sedgwick Ave', cursive;
+}
+
+body {
+  background: url("https://vgy.me/M0BtSv.jpg");
+  background-size: cover;
+   background-repeat: no-repeat;
+  height: 900px;
+}
+
+h1 {
+  font-size: 55px;
+  color: #000;
+}
+
+#top {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+#getQuote {
+  margin-bottom: 5%;
+}
+
+#lq {
+  text-align: right;
+}
+
+#rq {
+  text-align: left;
+}
+
+#tweet {
+  background-color: black;
+}
+#tweet:hover {
+  background-color: white;
+  color: black;
+}
+
+.well {
+  font-size: 25px;
+}
